@@ -11,12 +11,17 @@
 | 3 | [Kanak Verma] | [22515000060] |
 
 **Course:** B.Tech
-**Semester:** 3rd Sem  
+
+**Semester:** 3rd Sem 
+
 **Department:** CSE
+
 **College/University:** GLA University
 
-**Submitted to:** Assistant Prof. Nirbhay Sir  
+**Submitted to:** Assistant Prof. Nirbhay Sir 
+
 **Submission Date:** 26 October 2026
+
 ## 1. Project overview
 
 This project prepares the NSL-KDD network-traffic dataset for a cybersecurity intrusion-detection machine-learning workflow. It explores the distribution of normal and attack traffic, engineers additional features, encodes categorical variables, scales numerical features, detects potential outliers in normal training traffic, and applies SMOTE to reduce training-class imbalance.
